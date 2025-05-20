@@ -1,8 +1,8 @@
-## Hi there 👋 < br / >
-🌱 Currently learning Java and Javascript < br / >
-  ↪️ MOOC.fi < br / >
-  ↪️ Processing and P5.js < br / >
-🔭 Working on a graphical text game in p5 < br / >
+## Hi there 👋 <br/>
+🌱 Currently learning Java and Javascript <br/>
+  ↪️ MOOC.fi <br/>
+  ↪️ Processing and P5.js <br/>
+🔭 Working on a graphical text game in p5 <br/>
 ⚡ Lighting technician
 
 <!--
