@@ -1,4 +1,9 @@
 ## Hi there 👋
+🌱 Currently learning Java and Javascript
+  ↪️ MOOC.fi
+  ↪️ Processing and P5.js
+🔭 Working on a graphical text game in p5
+⚡ Lighting technician
 
 <!--
 **theojachiet/theojachiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
