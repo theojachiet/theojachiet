@@ -1,8 +1,8 @@
 ## Ayo 👋 <br/>
 🌱 Currently learning Java and Javascript <br/>
-   ↪️ MOOC.fi <br/>
-   ↪️ Processing and P5.js <br/>
-   ↪️ The Odin Project (Foundations) <br/>
+    ↪️ MOOC.fi <br/>
+    ↪️ Processing and P5.js <br/>
+    ↪️ The Odin Project (Foundations) <br/>
 ⚡ Lighting technician
 
 <!--
