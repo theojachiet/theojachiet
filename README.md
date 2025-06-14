@@ -2,7 +2,7 @@
 🌱 Currently learning Java and Javascript <br/>
     ✅ MOOC.fi <br/>
     🔄 Processing and P5.js <br/>
-    🔄 The Odin Project (Foundations) <br/>
+    🔄 The Odin Project (Intermediate HTML / CSS) <br/>
 ⚡ Lighting technician
 
 <!--
