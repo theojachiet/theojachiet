@@ -1,6 +1,5 @@
 ## Ayo 👋 <br/>
 🌱 Currently learning Javascript Webdev<br/>
-    ✅ Java MOOC.fi <br/>
     🔄 The Odin Project (Javascript) <br/>
     🔄 P5.js <br/>
 ⚡ Lighting technician
