@@ -1,7 +1,6 @@
 ## Ayo 👋 <br/>
-🌱 Currently learning Javascript Webdev<br/>
-    🔄 The Odin Project (Javascript) <br/>
-    🔄 P5.js <br/>
+🌱 Currently learning JS/React/node/express Webdev<br/>
+    🔄 The Odin Project <br/>
 ⚡ Lighting technician
 
 <!--
